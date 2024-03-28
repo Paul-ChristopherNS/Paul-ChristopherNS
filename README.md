@@ -5,7 +5,7 @@
 
 ## Sejam Todos bem vindos ao meu perfil!
 
-Atualmente sou estudante de Big Data e Inteligência Analítica pela Uniasselvi e estou em busca de uma oportunidade. Tenho foco na área de dados porem meu interesse não se restringe apenas a isso, possuo grande vontade de aprender novas tecnologias e novos campos de atuação no mundo de desenvolvimento em geral.
+Atualmente sou estudante de Big Data e Inteligência Analítica pela Uniasselvi. Tenho foco na área de dados porem meu interesse não se restringe apenas a isso, possuo grande vontade de aprender novas tecnologias e novos campos de atuação no mundo de desenvolvimento em geral.
 
 ## Linguagens e ferramentas:
 
