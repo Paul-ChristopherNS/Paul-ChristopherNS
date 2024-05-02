@@ -34,4 +34,3 @@ Atualmente sou estudante de Big Data e Inteligência Analítica pela Uniasselvi.
 </br>[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=false&vCenter=false&width=1000&lines=Meus+Contatos+:%29)](https://git.io/typing-svg)
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paul-christopher-573687189/)
-[![Linkedin](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/paulchristopherns/?igshid=MzMyNGUyNmU2YQ%3D%3D)
