@@ -5,7 +5,9 @@
 
 ## Sejam Todos bem vindos ao meu perfil!
 
-Atualmente sou estudante de Big Data e Inteligência Analítica pela Uniasselvi. Tenho foco na área de dados porem meu interesse não se restringe apenas a isso, possuo grande vontade de aprender novas tecnologias e novos campos de atuação no mundo de desenvolvimento em geral.
+Atualmente, estou cursando Ciência de Dados na Universidade Lá Salle. Sou apaixonado por explorar o universo dos dados e estou sempre em busca de novas oportunidades para expandir meus conhecimentos e habilidades nesse campo.
+
+
 
 ## Linguagens e ferramentas:
 
