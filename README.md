@@ -5,7 +5,7 @@
 
 ## Sejam Todos bem vindos ao meu perfil!
 
-Atualmente, estou cursando Ciência de Dados na Universidade Lá Salle. Sou apaixonado por explorar o universo dos dados e estou sempre em busca de novas oportunidades para expandir meus conhecimentos e habilidades nesse campo.
+Atualmente, estou cursando Ciência de Dados na Universidade Lá Salle. Dedicado ao campo de dados, procuro ampliar meu conhecimento para gerar impacto positivo nos processos de negócios.
 
 
 
