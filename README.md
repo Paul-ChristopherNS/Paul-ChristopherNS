@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Paul+Christopher;Sejam+bem-vindos!+:%29)](https://git.io/typing-svg)
 
 
-## Sejam Todos bem vindos ao meu perfil!
+## Sejam bem vindos ao meu perfil!
 
 Atualmente, estou cursando Ciência de Dados na Universidade Lá Salle. Dedicado ao campo de dados, procuro ampliar meu conhecimento para gerar impacto positivo nos processos de negócios.
 
